@@ -1,0 +1,3 @@
+﻿  main.c
+J:\c语言黑马\贪吃蛇\Simple Retro Snaker\Retro Snaker\main.c(52,18): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  Retro Snaker.vcxproj -> J:\c语言黑马\贪吃蛇\Simple Retro Snaker\Debug\Retro Snaker.exe
